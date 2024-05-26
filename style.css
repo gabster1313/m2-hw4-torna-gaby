@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 900px;
+    margin: auto;
+}
+
+header {
+    margin: 35px 0;
+    font font-size: 20px;
+}
+
+section.jumbotron{
+    font-size: 50px;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("https://consequence.net/wp-content/uploads/2023/05/Post-Malone.jpeg?resize=768");
+}
+
+a {
+    color:cadetblue;
+}
+
+h2 {
+    color: #A8A9AD;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h2,p,li{
+    text-align: left;
+}
+
+h2~p {
+    color: rgb(35, 183, 183);
+}
+
+section.selfie {
+    text-align: center;
+}
+
+footer {
+    margin: 50px 0px;
+    text-align: center;
+}
